@@ -1,0 +1,51 @@
+--script for xo
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("fuck you xo hub", "Ocean")
+
+    --main page
+    local Main = Window:NewTab("Academy Autofarm")
+    local MainSection = Main:NewSection("Leaf")
+
+--leaf water plant tps
+MainSection:NewButton("Leaf Mission Board", "tps you to Board", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/hi0wEXx6'))()
+    end)
+
+
+MainSection:NewButton("Leaf Tp1", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/k7n7U0v4'))()
+    end)
+
+MainSection:NewButton("Leaf Tp2", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/9fqbZTdG'))()
+    end)
+
+MainSection:NewButton("Leaf Tp3", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/VN28sp8q'))()
+end)
+
+MainSection:NewButton("Leaf Tp4", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/eemEGJNn'))()
+    end)
+
+MainSection:NewButton("Leaf Tp5", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/s3Sffkks'))()
+    end)
+
+MainSection:NewButton("Leaf Tp6", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/2kDrvAS5'))()
+    end)
+
+MainSection:NewButton("Leaf Tp7", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/WW0k44cZ'))()
+    end)
+
+MainSection:NewButton("Leaf Tp8", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/aCDtwrk9'))()
+    end)
+
+--leaf broom
+
+MainSection:NewButton("Leaf Brush", "press each one then click", function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/FVGwDSs8'))()
+    end)
